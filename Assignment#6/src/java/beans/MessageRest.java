@@ -1,4 +1,7 @@
+package beans;
 
+
+import beans.Message;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
